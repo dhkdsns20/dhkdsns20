@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=C&logoColor=#A8B9CC" />&nbsp
   <img src="https://img.shields.io/badge/C++-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=#00599C" />&nbsp
-  <img src="https://img.shields.io/badge/Python-E34F26.svg?style=for-the-badge&logo=html5&logoColor=#3776AB" />&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  
   <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
