@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/C-20232a.svg?style=for-the-badge&logo=C&logoColor=#A8B9CC" />&nbsp
-  <img src="https://img.shields.io/badge/C++-F7DF1E.svg?style=for-the-badge&logo=C++&logoColor=#00599C" />&nbsp
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=#00599C" />&nbsp
+  <img src="https://img.shields.io/badge/C++-F7DF1E.svg?style=for-the-badge&logo=c++&logoColor=#00599C" />&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=Python&logoColor=#00599C" />&nbsp
  
 </div>
 
