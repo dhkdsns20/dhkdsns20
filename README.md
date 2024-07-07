@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Tensorflow-007ACC.svg?style=for-the-badge&logo=tensorflow&logoColor=#FF6F00" />&nbsp
-  <img src="https://img.shields.io/badge/Scikit-learn%20Query-FF4154?style=for-the-badge&logo=scikitlearn%20query&logoColor=#F7931E" />&nbsp
+  <img src="https://img.shields.io/badge/Scikit-learn-FF4154?style=for-the-badge&logo=scikit-learn%20query&logoColor=#F7931E" />&nbsp
 </div>
 
 <br>
@@ -50,9 +50,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
 
 <br>
 
